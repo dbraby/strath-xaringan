@@ -17,7 +17,6 @@ author: "Your Name"
 date: "University of Strathclyde </br> `r Sys.Date()`"
 output:
   xaringan::moon_reader:
-    lib_dir: libs
     css: ["strath.css", "strath-fonts.css"]
     nature:
       beforeInit: "https://www.danielbraby.com/strath_xaringan.js"
