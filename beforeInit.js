@@ -1,3 +1,4 @@
+
 // allow image sizing using percentage 
 remark.macros.scale = function (percentage) {
   var url = this;
