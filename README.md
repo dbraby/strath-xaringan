@@ -9,7 +9,7 @@ devtools::install_github("dbraby/strath_xaringan")
 
 ```
 ...and inserting the code below into to the YAML front-matter
-
+```
 ---
 title: "Title here"
 subtitle: "Sub-title here"
@@ -26,3 +26,4 @@ output:
       countIncrementalSlides: false
       ratio: "16:9"
 ---
+```
