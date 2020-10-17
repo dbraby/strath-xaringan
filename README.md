@@ -1,5 +1,5 @@
 # strath_xaringan
-CSS theme for r/xaringan in Strath Colours
+CSS theme for r/xaringan in Strath Colours based on the Rutgers css
 
 To download this repo into R, use the following code
 
