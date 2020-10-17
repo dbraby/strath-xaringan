@@ -3,7 +3,7 @@ CSS theme for r/xaringan in Strath Colours
 
 To download this repo into R, use the following code
 
-```{r}
+```
 
 devtools::install_github("dbraby/strath_xaringan")
 
