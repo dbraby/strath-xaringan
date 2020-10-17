@@ -1,7 +1,7 @@
 # strath_xaringan
 CSS theme for r/xaringan in Strath Colours
 
-To download this repo into R
+To download this repo into R, use the following code
 
 ```{r}
 
