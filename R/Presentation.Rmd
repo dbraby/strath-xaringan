@@ -1,0 +1,32 @@
+---
+title: "Title here"
+subtitle: "Sub-title here"
+author: "Your Name"
+date: "University of Strathclyde </br> `r Sys.Date()`"
+output:
+  xaringan::moon_reader:
+    css: ["strath.css", "strath-fonts.css"]
+    nature:
+      beforeInit: "https://www.danielbraby.com/strath_xaringan.js"
+      highlightStyle: github
+      highlightLines: true
+      countIncrementalSlides: false
+      ratio: "16:9"
+---
+
+
+```{r setup, include=FALSE}
+options(htmltools.dir.version = FALSE)
+```
+
+
+--- 
+
+# Big Header
+
+Bold ** in Strath Colours**
+
+Regular text
+
+HASS .orange[colour palette]
+link to my !(twitter)[https://twitter.com/drby]
