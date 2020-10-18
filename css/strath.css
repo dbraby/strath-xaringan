@@ -177,7 +177,7 @@ thead, tfoot, tr:nth-child(even) { background: none; }
 
 /* section divider grey */
 .title-slide-section-grey {
-  background-color: ##6c757d;
+  background-color: #6c757d;
   padding-left: 100px;  /* delete this for 4:3 aspect ratio */
 }
 
@@ -226,9 +226,27 @@ strong {
   color: #0088ae;
 }
 
-/* Add orange tag */
-.orange {
+/* Add orange HASS tag */
+.hass {
   color: #f47b20;
+  font-weight: bold;
+}
+
+/* Add red SBS tag */
+.sbs {
+  color: #ee3224;
+  font-weight: bold;
+}
+
+/* Add green sci tag */
+.sci {
+  color: #5d9732;
+  font-weight: bold;
+}
+
+/* Add blue Eng tag */
+.eng {
+  color: #0078ae;
   font-weight: bold;
 }
 
@@ -237,9 +255,15 @@ strong {
   color: #adb5bd;
 }
 
+/* Add purple tag */
+.purple {
+  color: #8a2be2;
+}
+
 .lightgrey {
   color: #ced4da;
 }
+
 
 /* Force black */
 .black {
